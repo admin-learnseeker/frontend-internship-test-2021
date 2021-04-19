@@ -22,6 +22,7 @@ Submit your repo URL and video 48 hours after you receive these instructions.
 ## Bonus
 
 - <b>Write the api queries for GraphQL (comment out the REST API query)</b>: https://docs.github.com/en/graphql/guides/migrating-from-rest-to-graphql
+- Use Typescript
 
 ## Stack
 
