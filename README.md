@@ -12,7 +12,12 @@ The web app must have two pages/routes:
 
 Take into consideration that this web application must be scalable: more requirements will be added on top, and other teams/developers will work on it in the future.
 
-Share your solution via URL to your git repository. Make it private and add admin-learnseeker as a viewer.
+## Submission
+
+1. Share your solution via URL to your private git repository (add admin-learnseeker as a contributor with atleast view access)
+2. Create a 30s-2min video (hosted on youtube as unlisted) showcasing the application's use.
+
+Submit your repo URL and video 48 hours after you receive these instructions.
 
 ## Bonus
 
