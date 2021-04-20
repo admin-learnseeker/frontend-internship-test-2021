@@ -46,8 +46,8 @@ During the assessment, we will look into the following points:
 * Mobile friendly
 * Assignment interpretation/completion
 * Git Best Practices:
-*   Git Commits: https://chris.beams.io/posts/git-commit/#why-not-how (there are 7 rules but this is the most important)
-*   Branch Workflows
+  1. Git Commits: https://chris.beams.io/posts/git-commit/#why-not-how (there are 7 rules but this is the most important)
+  2. Choose a good Branch Workflow: https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
 
 ## Hints
 
