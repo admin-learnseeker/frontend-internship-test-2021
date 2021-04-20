@@ -45,7 +45,9 @@ During the assessment, we will look into the following points:
 * Error handling
 * Mobile friendly
 * Assignment interpretation/completion
-* Git Commits: https://chris.beams.io/posts/git-commit/#why-not-how (there are 7 rules but this is the most important)
+* Git Best Practices:
+*   Git Commits: https://chris.beams.io/posts/git-commit/#why-not-how (there are 7 rules but this is the most important)
+*   Branch Workflows
 
 ## Hints
 
