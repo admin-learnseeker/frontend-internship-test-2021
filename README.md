@@ -6,7 +6,7 @@ For this assigment, you should consume the public [Github REST API](https://docs
 
 The web app must have two pages/routes:
 
-- <b>Search page</b>: the user types a Github username in a form. Once the form is submitted, the data is fetched and presented in the UI. The following data is required: Avatar picture, name, email, bio and his repositories metadata info: name, description, URL.
+- <b>Search page</b>: the user types a Github username in a form. Once the form is submitted, the data is fetched and presented in the UI. The following data is required: Avatar picture, name, email, bio and their repositories' metadata info: name, description, URL.
 
 - <b>Followers page</b>: the page must show all followers of the user, sorted by username. The application user must be able to click on a username in this page to go to that github user's followers page.
 
